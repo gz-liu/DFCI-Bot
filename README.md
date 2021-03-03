@@ -1,5 +1,5 @@
 # DFCI-Bot
-Discord bot that displays frame data of character moves from Dengeki Bunko: Fighting Climax\
+Discord bot that displays frame data of character moves from Dengeki Bunko: Fighting Climax. Everything taken from Mizuumi.\
 !fd {character} {move}
 
 Example:\
