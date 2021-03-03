@@ -1,0 +1,226 @@
+[
+  {
+    "Name": "5A",
+    "Damage": "300",
+    "Startup": "5",
+    "Active": "2",
+    "Recovery": "14",
+    "Frame_adv": "-3"
+  },
+  {
+    "Name": "2A",
+    "Damage": "250",
+    "Startup": "5",
+    "Active": "3",
+    "Recovery": "14",
+    "Frame_adv": "-4"
+  },
+  {
+    "Name": "5B",
+    "Damage": "500",
+    "Startup": "7",
+    "Active": "2",
+    "Recovery": "16",
+    "Frame_adv": "-3"
+  },
+  {
+    "Name": "2B",
+    "Damage": "450",
+    "Startup": "8",
+    "Active": "3",
+    "Recovery": "17",
+    "Frame_adv": "-5"
+  },
+  {
+    "Name": "5C",
+    "Damage": "700",
+    "Startup": "10",
+    "Active": "3",
+    "Recovery": "22",
+    "Frame_adv": "-8"
+  },
+  {
+    "Name": "2C",
+    "Damage": "300, 360",
+    "Startup": "9",
+    "Active": "4",
+    "Recovery": "30",
+    "Frame_adv": "-4"
+  },
+  {
+    "Name": "jA",
+    "Damage": "250",
+    "Startup": "7",
+    "Active": "2",
+    "Recovery": "X+2",
+    "Frame_adv": "varies"
+  },
+  {
+    "Name": "jB",
+    "Damage": "450",
+    "Startup": "9",
+    "Active": "3",
+    "Recovery": "X+3",
+    "Frame_adv": "varies"
+  },
+  {
+    "Name": "jC",
+    "Damage": "650",
+    "Startup": "10",
+    "Active": "4",
+    "Recovery": "X+4",
+    "Frame_adv": "varies"
+  },
+  {
+    "Name": "236A",
+    "Damage": "768",
+    "Startup": "7",
+    "Active": "2 * 3 hits",
+    "Recovery": "34",
+    "Frame_adv": "-9"
+  },
+  {
+    "Name": "236B",
+    "Damage": "978",
+    "Startup": "8",
+    "Active": "2 * 4 hits",
+    "Recovery": "41",
+    "Frame_adv": "-10"
+  },
+  {
+    "Name": "236C",
+    "Damage": "1065",
+    "Startup": "9",
+    "Active": "2 * 4 hits",
+    "Recovery": "42",
+    "Frame_adv": "-11"
+  },
+  {
+    "Name": "236EX",
+    "Damage": "1464",
+    "Startup": "7",
+    "Active": "2 * 5 hits",
+    "Recovery": "51",
+    "Frame_adv": "-6"
+  },
+  {
+    "Name": "214A",
+    "Damage": "966",
+    "Startup": "19",
+    "Active": "10",
+    "Recovery": "31",
+    "Frame_adv": "-11"
+  },
+  {
+    "Name": "214B",
+    "Damage": "1018",
+    "Startup": "31",
+    "Active": "10",
+    "Recovery": "14",
+    "Frame_adv": "+7"
+  },
+  {
+    "Name": "214C",
+    "Damage": "1018",
+    "Startup": "33",
+    "Active": "10",
+    "Recovery": "14",
+    "Frame_adv": "+4 "
+  },
+  {
+    "Name": "214EX",
+    "Damage": "1474",
+    "Startup": "15",
+    "Active": "10",
+    "Recovery": "14",
+    "Frame_adv": "+3"
+  },
+  {
+    "Name": "214[X]",
+    "Damage": "-",
+    "Startup": "-",
+    "Active": "-",
+    "Recovery": "16",
+    "Frame_adv": "-"
+  },
+  {
+    "Name": "j236A",
+    "Damage": "900",
+    "Startup": "10",
+    "Active": "8",
+    "Recovery": "23",
+    "Frame_adv": "-12"
+  },
+  {
+    "Name": "j236B",
+    "Damage": "1000",
+    "Startup": "12",
+    "Active": "9",
+    "Recovery": "24",
+    "Frame_adv": "-14"
+  },
+  {
+    "Name": "j236C",
+    "Damage": "1100",
+    "Startup": "20",
+    "Active": "7",
+    "Recovery": "18",
+    "Frame_adv": "-7 "
+  },
+  {
+    "Name": "j236EX",
+    "Damage": "1300",
+    "Startup": "11",
+    "Active": "7",
+    "Recovery": "9",
+    "Frame_adv": "+4"
+  },
+  {
+    "Name": "5AB",
+    "Damage": "1100",
+    "Startup": "12",
+    "Active": "10",
+    "Recovery": "33",
+    "Frame_adv": "-27"
+  },
+  {
+    "Name": "2AB",
+    "Damage": "600, 504",
+    "Startup": "12",
+    "Active": "7",
+    "Recovery": "34",
+    "Frame_adv": "-49, -27"
+  },
+  {
+    "Name": "4AB",
+    "Damage": "900, 800",
+    "Startup": "22, 9",
+    "Active": "8, 2",
+    "Recovery": "14",
+    "Frame_adv": "-2, -37"
+  },
+  {
+    "Name": "5AC",
+    "Damage": "3000",
+    "Startup": "22",
+    "Active": "5",
+    "Recovery": "35",
+    "Frame_adv": "-25"
+  },
+  {
+    "Name": "41236BC",
+    "Damage": "3500",
+    "Startup": "9",
+    "Active": "54",
+    "Recovery": "158",
+    "Frame_adv": "-39"
+  },
+  {
+    "Name": "63214BC",
+    "Damage": "2740",
+    "Startup": "7",
+    "Active": "23",
+    "Recovery": "20",
+    "Frame_adv": "-28"
+  }
+]
