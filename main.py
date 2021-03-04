@@ -1,4 +1,3 @@
-import logging
 import os
 import json
 import discord
@@ -12,11 +11,6 @@ bot = commands.Bot(command_prefix='!', help_command=None)
 CHARACTERS = ['Asuna', 'Asuna', 'Kirino', 'Kuroko', 'Taiga', 'Kuroyukihime', 'Mikoto', 'Miyuki',
               'Selvaria', 'Yukina', 'Shizuo', 'Tomoka', 'Emi', 'Tatsuya', 'Yuuki', 'Rentaro',
               'Kirito', 'Quenser', 'Shana', 'Ako']
-
-# setup logger for errors
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.WARNING)
-
 
 @bot.event
 async def on_ready():
@@ -55,7 +49,7 @@ async def fd(ctx, arg1, arg2):
                 embed.add_field(name='Active', value=move_list['Active'])
                 embed.add_field(name='Recovery', value=move_list['Recovery'])
                 embed.add_field(name='Frame advantage', value=move_list['Frame_adv'])
-                await ctx.send(file=file, embed=embed)
+                await ctx.send(file=file, embed=embed, delete_after=15)
                 return
         await ctx.send("I couldn't find the move...")
     else:
